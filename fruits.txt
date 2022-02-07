@@ -4,3 +4,4 @@ cherries
 banana
 mangoes
 oranges
+strawberries
