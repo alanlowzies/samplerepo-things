@@ -1,3 +1,7 @@
 apples
 berries
 cherries
+banana
+mangoes
+oranges
+strawberries
